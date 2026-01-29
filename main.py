@@ -13,7 +13,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 # =======================
 # SOZLAMALAR
 # =======================
-TOKEN = "7320532115:AAGqzrL7pM_wnBVxT0zU_Z_9JdcTLEG7rqM"
+TOKEN = "8478058553:AAGR0eMotTJy5_zM-65bHGGsm2ImcOKKfeE"
 ADMINS = {5815294733}
 
 # Majburiy emas, faqat "Kinolar bo‘lim" uchun:
